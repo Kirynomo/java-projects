@@ -17,9 +17,9 @@ The program randomly selects a number between 0 and 100, and the player tries to
 
 ## 🖥️ How to Run
 
-Clone this repository:
+Open this repository:
 
-git clone https://github.com/Kirynomo/java-projects/tree/main/java-number-guessing-game.git
+https://github.com/Kirynomo/java-projects
 
 
 Navigate to the project folder:
