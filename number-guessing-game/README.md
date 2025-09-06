@@ -3,7 +3,7 @@
 A simple command-line Number Guessing Game built in Java.
 The program randomly selects a number between 0 and 100, and the player tries to guess it. After each guess, the game provides hints (higher or lower) until the correct number is guessed.
 
---
+---
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ The program randomly selects a number between 0 and 100, and the player tries to
 - Handles invalid inputs gracefully.
 - Option to play multiple rounds or exit.
 
---
+---
 
 ## 🖥️ How to Run
 
@@ -36,7 +36,7 @@ Run the program:
 
 java NumberGuessingGame
 
---
+---
 
 ## 📚 What I Learned
 
