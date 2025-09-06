@@ -1,52 +1,44 @@
-Java CLI Calculator
+# Java CLI Calculator
 
-A simple command-line calculator built in Java.
-This was my first project while learning Java 🚀
+A simple **command-line calculator** built in Java.  
+This was my first project while learning Java 🚀  
 
-✨ Features
+---
 
-Supports basic operations: +, -, *, /
+## ✨ Features
+- Supports basic operations: `+`, `-`, `*`, `/`  
+- Handles divide-by-zero error safely  
+- Takes user input from the console  
+- Beginner-friendly and easy to extend  
 
-Handles divide-by-zero error safely
+---
 
-Takes user input from the console
+## 🎯 Example Usage
+- Enter first number : 10
+- Enter an operator (+, -, *, /) : *
+- Enter second number : 5
+- Result: 50
 
-Beginner-friendly and easy to extend
+---
 
+## 🚀 Future Improvements
 
-⚡ How to Run
+- Add modulus (%) and power (^) operations
 
-Clone this repository
+- Add loop to perform multiple calculations until exit
 
-Compile the program:
+---
 
-javac Main.java
+## 📚 Learning Goals
 
+- This project helped me practice:
 
-Run the program:
+- Taking input with Scanner
 
-java Main
+- Using if-else statements
 
-🎯 Example Usage
-Enter first number : 10
-Enter an operator (+, -, *, /) : *
-Enter second number : 5
-Result: 50
+- Static vs non-static methods
 
-🚀 Future Improvements
+- Basic Java project structure
 
-Add modulus (%) and power (^) operations
-
-Add loop to perform multiple calculations until exit
-
-📚 Learning Goals
-
-This project helped me practice:
-
-Taking input with Scanner
-
-Using if-else statements
-
-Static vs non-static methods
-
-Basic Java project structure
+---
