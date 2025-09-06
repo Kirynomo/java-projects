@@ -19,7 +19,7 @@ The program randomly selects a number between 0 and 100, and the player tries to
 
 Clone this repository:
 
-git clone https://github.com/Kirynomo/java-projects/java-number-guessing-game.git
+git clone https://github.com/Kirynomo/java-projects/java-number-guessing-game
 
 
 Navigate to the project folder:
